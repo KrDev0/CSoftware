@@ -1,10 +1,5 @@
 Lista de cambios y mejoras:
 
-VERSIÓN: 2.2.1
-1- Se agregaron dos nuevos servidores VPN en la VPN Nativa de MegaDownloader y se hicieron múltiples mejoras y correcciones de bugs
-
-VERSIÓN: 2.2
-1- Se hicieron mejoras y correcciones en la VPN nativa de MegaDownloader, Ahora es posible seleccionar el servidor al que se va a realizar la conexión y poder visualizar información básica del mismo (IP, Tiempo de respuesta)
-2- Se integro de manera nativa la VPN Psiphon en su versión 3, ahora es posible iniciarla desde el menú de MegaDownloader
-3- Ahora los ensamblados han sido firmados con una firma digital valida y verificada para garantizar mejor confianza con el usuario final
-4- Se hicieron otras mejoras y correcciones de bugs en MegaDownloader
+VERSIÓN: 2.3.0
+1- Se agrego soporte para conectarse a un servidor proxy desde los ajustes de la aplicación
+2- Se hicieron otras pequeñas mejoras en rendimiento y correcciones de bugs 
