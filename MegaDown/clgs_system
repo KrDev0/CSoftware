@@ -1,5 +1,5 @@
 Lista de cambios y mejoras:
 
-VERSIÓN: 2.3.0
-1- Se agrego soporte para conectarse a un servidor proxy desde los ajustes de la aplicación
+VERSIÓN: 2.4.0
+1- Soporte de la app nativa de Mega, Descarga directa y Streaming: Ahora MegaDownloader incluye la app oficial de Mega.nz (MegaSync) para asi poder dar al usuario la facilidad de ver en Streaming los videos alojados en el sitio, tambien la posibilidad de descargar archivos usando algun otro gestor de descarga.
 2- Se hicieron otras pequeñas mejoras en rendimiento y correcciones de bugs 
