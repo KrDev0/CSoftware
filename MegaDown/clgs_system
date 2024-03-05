@@ -1,6 +1,6 @@
 Lista de cambios y mejoras:
 
-VERSIÓN: 2.7
-1- “Tema Oscuro” Se ha agregado la posibilidad de cambiar al modo oscuro en MegaDownloader desde los ajustes de la aplicación, actualmente el tema esta en fase beta, pero se irá mejorando próximamente en futuras actualizaciones.
-2- “Interfaz mejorada” Se ha rediseñado toda la interfaz de MegaDownloader para hacerla mas agradable para el usuario y adaptarse mejor al modo oscuro.
-3- Se hicieron otras pequeñas mejoras en rendimiento y correcciones de bugs.
+VERSIÓN: 2.8
+1- Se eliminó de manera temporal la VPN nativa de Megadownloader ya que no conectaba correctamente
+2- Se hicieron otras mejoras en rendimiendo y corecciones de bugs
+3- Se corrigio un bug que hacia que el sistema de actualizacón siguiera apareciendo aun estando en la ultima versión disponible
